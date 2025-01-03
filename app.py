@@ -67,7 +67,7 @@ def run_conversation():
 # Streamlit UI
 st.title("TAT AUG Voice Assistant")
 st.image(
-    "https://in.pinterest.com/pin/775252523383647747/",
+    "image.jpeg",
     caption="TAT AUG Health Insurance",
     use_container_width=False,
     width=200
