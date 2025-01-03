@@ -65,10 +65,10 @@ def run_conversation():
         conversation_running = False
 
 # Streamlit UI
-st.title("TATA AIG Voice Assistant")
+st.title("TAT AUG Voice Assistant")
 st.image(
-    "https://www.tataaig.com/logo-min.png",
-    caption="Tata AIG Insurance",
+    "https://in.pinterest.com/pin/775252523383647747/",
+    caption="TAT AUG Health Insurance",
     use_container_width=False,
     width=200
 )
